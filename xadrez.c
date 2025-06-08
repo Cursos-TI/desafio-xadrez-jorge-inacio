@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Definição das constantes de movimento
+// Definição das constantes de movimento.
 #define MOV_BISPO 5
 #define MOV_TORRE 5
 #define MOV_RAINHA 8
