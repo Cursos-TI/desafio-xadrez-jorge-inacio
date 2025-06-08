@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Funções recursivas para movimentação das peças
+// Funções recursivas para movimentação das peças.
 void moverBispo(int passos) {
     if (passos == 0) return;
     printf("Cima\n");
